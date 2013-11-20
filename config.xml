@@ -5,12 +5,14 @@
         versionCode = "10"
         version     = "1.1.0">
  
-    <name>Employee Directory</name>
+    <name>Ambroisie</name>
  
     <description>
-        A simple employee directory application
+        Test application
     </description>
- 
+    
+    <icon src="icon.png" />
+    
     <author href="http://coenraets.org" email="ccoenraets@gmail.com">
         Christophe Coenraets
     </author>
