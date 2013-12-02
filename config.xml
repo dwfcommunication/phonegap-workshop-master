@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Ambroisie</name>
+    <name>Employee Directory</name>
 
     <description>
-      Test Ambroisie
+        A simple employee directory application
     </description>
 
     <author href="http://coenraets.org" email="ccoenraets@gmail.com">
-        DWF
+        Christophe Coenraets
     </author>
 
 </widget>
